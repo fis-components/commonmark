@@ -5,9 +5,13 @@
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
+    "dependencies": {
+        "entities": "~ 1.1.1",
+        "mdurl": "~ 1.0.0",
+        "string.prototype.repeat": "^0.2.0"
+    },
     "paths": {
         "dist": "."
     },
-    "version": "0.19.0"
+    "version": "0.22.0"
 }
